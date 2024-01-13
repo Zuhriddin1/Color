@@ -1,0 +1,11 @@
+.bg {
+  background-color: #f02aa6 to #ff 6f48;
+  width: 255px;
+  height: 125px;
+  top: 282px;
+  left: 165px;
+  border-radius: 10px;
+}
+.bg span {
+  font-weight: 900;
+}
